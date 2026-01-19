@@ -1,2 +1,2 @@
 # Cuma-test-repo
-Test aja
+kodingan javascript kagak jelas
